@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1951f47f.css",
+    "main.js": "/static/js/main.9960473b.js",
+    "static/media/logo.svg": "/static/media/logo.0a931d2f58fb8ea7f17c375ff07521b0.svg",
+    "static/media/addTask.svg": "/static/media/addTask.a4e04a41f34fe0d90ffe7a9d3ff92d80.svg",
+    "static/media/help.svg": "/static/media/help.72db866ccda5983cca0dfffd5660ecee.svg",
+    "index.html": "/index.html",
+    "main.1951f47f.css.map": "/static/css/main.1951f47f.css.map",
+    "main.9960473b.js.map": "/static/js/main.9960473b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1951f47f.css",
+    "static/js/main.9960473b.js"
+  ]
+}
